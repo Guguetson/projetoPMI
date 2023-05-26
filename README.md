@@ -19,3 +19,29 @@ melhorando a eficácia logística da empresa e atendento a expectativa do client
 satisfação e fidelização do cliente.
 
 🧑‍💻👩‍💻 Equipe :Barbara, Guilherme, Rayner, Róger (ADS12) 2023
+
+🛠️ Recursos/Tecnologias Utilizados: 
+
+🔗 url github: 
+
+🛬 url landpage:
+
+🤝 url Modelo Negócio (imagem):
+
+🗓️ url Product Backlog:
+
+⌨️ url Protótipo (Figma):
+
+📝 url Modelagem Sistema:
+
+🖥️ Versão do Código no github:
+
+🎥 url vídeo demonstração (código):
+
+🖥️ Versão do Código no github/heroku/servidor:
+
+🎞️ url vídeo demonstração (pitch ideia):
+
+🎥 url vídeo demonstração (aplicação rodando):
+
+📚 Referências:
