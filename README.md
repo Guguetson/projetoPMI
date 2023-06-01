@@ -29,7 +29,10 @@ satisfação e fidelização do cliente.
 
 🧑‍💻👩‍💻 **Equipe:** Barbara, Guilherme, Rayner, Róger (ADS12) 2023
 
-🛠️ **Recursos/Tecnologias Utilizados:** 
+🛠️ **Recursos/Tecnologias Utilizados:** Em andamento...
+
+💡 PMI I
+-------------------
 
 🔗 **url github:**
 
@@ -39,18 +42,29 @@ satisfação e fidelização do cliente.
 
 🗓️ **url Product Backlog:**
 
+📲 PMI II
+-------------------
+
 ⌨️ **url Protótipo (Figma):**
 
 📝 **url Modelagem Sistema:**
 
+💻 PMI III
+-------------------
+
 🖥️ **Versão do Código no github:**
 
 🎥 **url vídeo demonstração (código):**
+
+💻 PMI IV
+-------------------
 
 🖥️ **Versão do Código no github/heroku/servidor:**
 
 🎞️ **url vídeo demonstração (pitch ideia):**
 
 🎥 **url vídeo demonstração (aplicação rodando):**
+
+-------------------
 
 📚 **Referências:**
