@@ -1,5 +1,5 @@
 ## NexusLogistics
-🙁 Problema: 
+🙁 **Problema:**
 Problemas com a gestão logística e organização da distribuição dos pedidos que acabam acarretam em:
 
 
@@ -9,39 +9,39 @@ Problemas com a gestão logística e organização da distribuição dos pedidos
 . Não conseguir chegar no destino porque não é o veículo correto para aquela entrega;
 . Cliente não está no local para receber seus produtos e materiais, assim atrasando todas as outras entregas;
 
-🙂 Nicho: Lojas de Materiais de Construção
+🙂 **Nicho:** Lojas de Materiais de Construção
 
-🎁 Proposta de Valor: Nosso produto irá organizar as rotas
+🎁 **Proposta de Valor:** Nosso produto irá organizar as rotas
 e as entregas para cada tipo de caminhão, definindo as entregas diárias, programadas, pendentes e
 finalizadas. Referente as entregas, nosso aplicativo possibilitará para os clientes
 o acompanhamento em tempo real de seus materiais e produtos até o local de entrega, 
 melhorando a eficácia logística da empresa e atendento a expectativa do cliente, gerando
 satisfação e fidelização do cliente.
 
-🧑‍💻👩‍💻 Equipe :Barbara, Guilherme, Rayner, Róger (ADS12) 2023
+🧑‍💻👩‍💻 **Equipe:** Barbara, Guilherme, Rayner, Róger (ADS12) 2023
 
-🛠️ Recursos/Tecnologias Utilizados: 
+🛠️ **Recursos/Tecnologias Utilizados:** 
 
-🔗 url github: 
+🔗 **url github:**
 
-🛬 url landpage:
+🛬 **url landpage:**
 
-🤝 url Modelo Negócio (imagem):
+🤝 **url Modelo Negócio (imagem):**
 
-🗓️ url Product Backlog:
+🗓️ **url Product Backlog:**
 
-⌨️ url Protótipo (Figma):
+⌨️ **url Protótipo (Figma):**
 
-📝 url Modelagem Sistema:
+📝 **url Modelagem Sistema:**
 
-🖥️ Versão do Código no github:
+🖥️ **Versão do Código no github:**
 
-🎥 url vídeo demonstração (código):
+🎥 **url vídeo demonstração (código):**
 
-🖥️ Versão do Código no github/heroku/servidor:
+🖥️ **Versão do Código no github/heroku/servidor:**
 
-🎞️ url vídeo demonstração (pitch ideia):
+🎞️ **url vídeo demonstração (pitch ideia):**
 
-🎥 url vídeo demonstração (aplicação rodando):
+🎥 **url vídeo demonstração (aplicação rodando):**
 
-📚 Referências:
+📚 **Referências:**
