@@ -1,22 +1,18 @@
 ## NexusLogistics
 
-
-
-
-
-
 🙁 **Problema:**
-Problemas com a gestão logística e organização da distribuição dos pedidos que acabam acarretam em:
 
-. Clientes não conseguem receber suas mercadorias e produtos no dia programado;
+A má gestão logística e falta de organização da distribuição dos pedidos que acabam acarretam em:
 
-. Baixa eficácia nas entregas diárias, não conseguindo finalizar todas as entregas do dia;
+*. Clientes não conseguem receber suas mercadorias e produtos no dia programado;*
 
-. Atraso no setor logístico da empresa, devido a má gestão, administração dos pedidos e das rotas do dia para cada tipo de veículo;
+*. Baixa eficácia nas entregas diárias, não conseguindo finalizar todas as entregas do dia;*
 
-. Não conseguir chegar no destino porque não é o veículo correto para aquela entrega;
+*. Atraso no setor logístico da empresa, devido a má gestão, administração dos pedidos e das rotas do dia para cada tipo de veículo;*
 
-. Cliente não está no local para receber seus produtos e materiais, assim atrasando todas as outras entregas;
+*. Não conseguir chegar no destino porque não é o veículo correto para aquela entrega;*
+
+*. Cliente não está no local para receber seus produtos e materiais, assim atrasando todas as outras entregas;*
 
 🙂 **Nicho:** Lojas de Materiais de Construção
 
