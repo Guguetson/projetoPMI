@@ -2,7 +2,7 @@
 
 🙁 **Problema:**
 
-A má gestão logística e falta de organização da distribuição dos pedidos que acabam acarretam em:
+A má gestão logística e falta de organização da distribuição dos pedidos que acarretam em:
 
 *. Clientes não conseguem receber suas mercadorias e produtos no dia programado;*
 
