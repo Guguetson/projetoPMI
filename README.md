@@ -34,7 +34,7 @@ satisfação e fidelização do cliente.
 💡 PMI I
 -------------------
 
-🔗 **url github:**
+🔗 **url github:**https://guguetson.github.io/projetoPMI/
 
 🛬 **url landpage:**
 
